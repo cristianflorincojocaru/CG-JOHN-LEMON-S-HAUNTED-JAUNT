@@ -20,6 +20,19 @@ The **main technologies** used for this project / game are :
 
 
 
+## GAME CONTROLS
+
+|          **ACTION**        	        |  **BUTTON** |                **DESCRIPTION**          	|
+|:------------------------------:     |:---------:	|:-----------------------------------:	    |
+|           **PAUSE**                  |  **p**  |    the **player** can **pause the game** whenever the situation calls for it    |
+|         **HORIZONTAL (+)**        	|    **d**   	| move the **player** - to the right |
+|         **HORIZONTAL (-)**        	|    **a**   	|  move the **player** - to the left	|
+|         **VERTICAL (+)**          	|    **w**   	|    move the **player** - forward  	|
+|         **VERTICAL (-)**  	        |    **s**    |     move the **player** - back    	|
+|         **CHANGING THE PLAYER'S POINT OF VIEW**  	        |    **c**    |   the **player** can choose either a **third-person** or **first-person** view    	|
+
+
+
 ## CONTRIBUTIONS 
 Project created by **Cristian Florin Cojocaru** (**CSE.2** - **University of Craiova / Faculty of Automatics, Computer Science and Electronics**). Contributions are welcome ! If you have suggestions for improving the code or documentation, please submit a pull request.
 
