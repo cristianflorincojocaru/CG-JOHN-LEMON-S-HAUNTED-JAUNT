@@ -2,10 +2,12 @@
 
 
 ### DESCRIPTION :
-**"John Lemon's Haunted Jaunt"** is a beginner-friendly **3D stealth game** created as part of **Unity's official tutorial**. 
+**"John Lemon's Haunted Jaunt"** is a **fun** and **spooky** **beginner-friendly 3D stealth game**, crafted as part of **Unity’s official tutorials**.
 
-Step into the shoes of **John Lemon**, a daring character trapped in a haunted mansion. 
-Your mission : **sneak** past **patrolling ghosts**, avoid detection, **collect hidden keys** scattered throughout the map, and **find your way** to the **exit** before it's too late.
+Take on the role of the fearless (and slightly zesty) **John Lemon**, trapped inside a **haunted mansion** where restless ghosts roam the halls. 
+***Your goal ?*** Outsmart the spirits, stay out of sight, collect **hidden keys**, and make **a daring escape** before time runs out.
+
+Can you keep your cool and guide **John** to safety **-** or will the **ghosts** get the last laugh ?
 
 
 
