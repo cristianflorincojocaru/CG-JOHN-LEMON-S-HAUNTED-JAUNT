@@ -33,6 +33,28 @@ The **main technologies** used for this project / game are :
 
 
 
+## GAME FEATURES
+Throughout the tutorial, we've developed quite a few **game features**, such as :
+- The **movement mechanics** of our **main character**, allowing smooth and responsive navigation throughout the environment.
+
+- The creation of **movement patterns for the ghosts**, which patrol the map in **specific paths**, adding **challenge** and **tension** to the gameplay.
+
+- The implementation of a **detection system** where the main character can be spotted by the **Gargoyle lights**, increasing the difficulty and the need for careful planning.
+
+
+In addition to the features mentioned earlier, which were implemented based on the tutorial, I personally added **new functionalities** to leave **my mark** on this project. These include :
+- A comprehensive **main menu**, offering players the option to **start a new game**, **view high scores**, access **game instructions**, or **quit the game**.
+  
+- A **pause menu**, allowing players to **take a break**, review settings, or **resume gameplay** at any time.
+  
+- **Collectibles**, where players must gather all the **hidden keys** scattered throughout the **haunted house** in order to **escape**, adding an **extra layer of challenge and exploration**.
+  
+- An **alternative point of view**, offering both **first-person** and **third-person** camera options, so players can experience the game from different perspectives.
+  
+- **High score tracking**, with the ability to **save** and **view players’ preferences**, allowing them to **compare their performance** and revisit their best moments.
+
+
+
 ## TESTING METHODS
 To try out the final version of the game, download the **archive** named **'BUILD1'** from the **'GAMEBUILD'** directory. Once extracted into a folder of your choice, simply launch the **file** ending in ***'.exe'*** to start playing.
 > [!IMPORTANT]
