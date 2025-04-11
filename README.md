@@ -46,6 +46,12 @@ If you'd like to explore the process behind the creation of this game, you can d
 
 
 
+## ABOUT THE GAME FILES
+The files developed throughout the tutorial have **clear names**, making it easy for anyone to understand the purpose of each file. Any additional modifications made to the game, as well as the creation of new files to introduce new functionalities, are clearly marked within the project. 
+
+This is done both to **help newcomers** understand the changes and to make it easier to pick up the project again after a long period.
+
+
 
 ## CONTRIBUTIONS 
 Project created by **Cristian Florin Cojocaru** (**CSE.2** - **University of Craiova / Faculty of Automatics, Computer Science and Electronics**). Contributions are welcome ! If you have suggestions for improving the code or documentation, please submit a pull request.
